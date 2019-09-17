@@ -1,0 +1,26 @@
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+U                   W        W         U
+U  2             2  W        W  1      U
+U                   W        W         U
+U         P         W                  U
+U                   W                  U
+U                   W        F         U
+U  2             2  W        F         U
+U                   W   P    W         U
+U      WWWWWWW      W        W     1   U
+U4          4W      W        W         U
+U            W      W                  U
+U            W      W        W         U
+U      WWWWWWWW     W        W  1      U
+U      W            W        W         U
+U      W            W        W         U
+U      W      P     W        W         U
+U      W            W        W         U
+U      W     WWWWWWWW        W         U
+U      W                     W     1   U
+U      W   3            3    W         U
+U      W                     W         U
+U      W                     W         U
+U  A   W   3            3    W    E    U
+U      W                     W         U
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU

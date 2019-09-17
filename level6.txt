@@ -1,0 +1,26 @@
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+U                                      U
+U         R   RRRRRRRRRR   R     2     U
+U         R                R           U
+U         R        E       R           U
+U         R                R           U
+U         R                R           U
+U    1    R                R           U
+U                                      U
+U                                      U
+U                      F               U
+U                               F      U
+U               F                      U
+U       F                              U
+U             1            F           U
+U                                      U
+U               F                      U
+U                                      U
+U     1                  F             U
+U         F      A                     U
+U                                      U
+U                              F       U
+U                 F                    U
+U     P                          2     U
+U                                      U
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU

@@ -1,0 +1,27 @@
+UUUUUUUUUUUUUUUUUUUUUUUUU
+U            P          U
+U            P          U
+U                       U
+U     4      E      4   U
+U      5           5    U
+U       6         6     U
+U        7       7      U
+U         8     8       U
+U          9   9        U
+U P         0b0      P  U
+Uaaa        bRb     aaaaU
+U           0b0         U
+U          9   9        U
+U         8     8       U
+U        7       7      U
+U       6         6     U
+U      5           5    U
+U     4      a      4   U
+U                       U
+U                       U
+U            P          U
+U            P          U
+U                       U
+U            A          U
+U                       U
+UUUUUUUUUUUUUUUUUUUUUUUUU
